@@ -2,7 +2,7 @@
 
 CycleHack ass ee globale Mouvement dem seng Missioun et ass d’Welt eng méi nohalteg platz ze maachen duerch d’reduzéiere vu Barrière ronderëm de Vëlo.
 
-CycleHack konzentréiert sech drop d’Léit op enger Platz ze sammele fir Diskussiounen ze fuerderen a Léisungen ze generéiere ronderëm Barrièren déi existéiere wann et ëm d’Vëlofueren am Kader vun der Mobilitéit geet. Eng rëtsch Aktivitéiten hëllefen déi verschiddenste Gruppe vu Léit mat de verschiddensten Fähegkeeten an Erfahrungen zesummen ze bréngen an eng aner Approche zum Vëlo fueren ze kréien.
+CycleHack konzentréiert sech drop d’Léit op enger Platz ze sammele fir Diskussiounen ze fuerderen a Léisungen ze generéiere ronderëm Barrièren déi existéiere wann et ëm d’Vëlofueren am Kader vun der Mobilitéit geet. Eng rëtsch Aktivitéiten hëllefen déi verschiddenste Gruppe vu Léit mat de verschiddenste Fähegkeeten an Erfahrungen zesummen ze bréngen an eng aner Approche zum Vëlo fueren ze kréien.
 
 Duerch d’verstäerken an zesummebrénge vun eenzele Persounen, Organisatiounen a Gouvernementer, kënne Synergien entsoen, Erfahrungen ausgetosch ginn a nei Prototyp Iddie ronderëm de Vëlo fonnt ginn. Doduerch bilt sech eng méi gesond, méi aktiv a nohalteg Zukunft.
 
@@ -40,8 +40,6 @@ Dëst ka ronderëm d’Gouvernance vum Vëlo goe, ee Manifest oder Prinzipie fir
 
 Dacks sinn déi verschidde CycleHacks matenee vermëscht an zwou oder méi Kategorie kommen zesummen.
 
-[0] **Design-Thinking** ass een Usaatz, den fir d'léise vu Problemer an zur Entwécklung vu neien Iddien féiere soll. D'Zil ass et dobäi, Léisungen ze fannen, déi aus dem Benotzer senger Siicht iwwerzeegend sinn. Am Géigesätz zu aneren Innovatiounsmethode kann a gëtt Design Thinking deels net als Methode oder Prozess, mä als Usaatz beschriwwen, deen op den dräi Gläichwäertegen Grondprinzipien Team, Raum a Prozess berout.
+[0] **Design-Thinking** ass een Usaatz, de fir d'léise vu Problemer an zur Entwécklung vu neien Iddie féiere soll. D'Zil ass et dobäi, Léisungen ze fannen, déi aus dem Benotzer senger Siicht iwwerzeegend sinn. Am Géigesätz zu aneren Innovatiounsmethode kann a gëtt Design Thinking deels net als Methoden oder Prozess, mä als Usaatz beschriwwen, deen op den dräi Gläichwäertege Grondprinzipien Team, Raum a Prozess berout.
 
-[1] **Hackathon**
-
-En Hackathon (ofgeleet vun "Hack" a "Marathon") ass ee kollaborative Software- an Hardwareentwéckelungsevenement. Alternativ kann et och als "Hack Day", "Hackfest" oder "codefest" bezeechent ginn. D'Zil vun engem Hackathon ass et, bannent der Dauer vum Evenement, zesumme nëtzlech, kreativ oder lëschteg Soft-/Hard-ware-produiten ze entwéckelen. D'Participanten kommen dacks aus verschiddene Themegebidder a notzen d'Synergien fir dës Diversitéit ze fusionéieren. En Hackathon huet dacks ee Spezifescht Thema oder sinn Technologie baséiert.
+[1] En **Hackathon** (ofgeleet vun "Hack" a "Marathon") ass ee kollaborative Software- an Hardwareentwéckelungsevenement. Alternativ kann et och als "Hack Day", "Hackfest" oder "codefest" bezeechent ginn. D'Zil vun engem Hackathon ass et, bannent der Dauer vum Evenement, zesummen nëtzlech, kreativ oder lëschteg Soft-/Hard-ware-produiten ze entwéckelen. D'Participante kommen dacks aus verschiddene Themegebidder a notzen d'Synergië fir dës Diversitéit ze fusionéieren. En Hackathon huet dacks ee Spezifescht Thema oder sinn Technologie baséiert.
