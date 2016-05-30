@@ -1,10 +1,10 @@
 # Wat ass CycleHack?
 
-CycleHack ass ee globale Mouvement dem seng Missioun et ass d’Welt eng méi nohalteg platz ze maachen duerch d’reduzéiere vu Barrière ronderëm de Vëlo.
+CycleHack ass eng global Beweegung där hir Missioun et ass, d’Welt duerch d’reduzéiere vu Barrière ronderëm de Vëlo eng méi nohalteg Plaz ze maachen.
 
-CycleHack konzentréiert sech drop d’Léit op enger Platz ze sammele fir Diskussiounen ze fuerderen a Léisungen ze generéiere ronderëm Barrièren déi existéiere wann et ëm d’Vëlofueren am Kader vun der Mobilitéit geet. Eng rëtsch Aktivitéiten hëllefen déi verschiddenste Gruppe vu Léit mat de verschiddenste Fähegkeeten an Erfahrungen zesummen ze bréngen an eng aner Approche zum Vëlo fueren ze kréien.
+CycleHack konzentréiert sech drop, d’Léit op enger Plaz ze versammele fir Diskussiounen ze fuerderen a Léisungen ze generéiere ronderëm Barrièren déi existéiere wann et ëm d’Vëlofueren am Kader vun der Mobilitéit geet. Eng Rëtsch Aktivitéiten hëllefen, déi verschiddenste Gruppe vu Léit mat de verschiddenste Fähegkeeten an Erfahrungen zesummen ze bréngen an eng aner Approche zum Vëlo fueren ze kréien.
 
-Duerch d’verstäerken an zesummebrénge vun eenzele Persounen, Organisatiounen a Gouvernementer, kënne Synergien entsoen, Erfahrungen ausgetosch ginn a nei Prototyp Iddie ronderëm de Vëlo fonnt ginn. Doduerch bilt sech eng méi gesond, méi aktiv a nohalteg Zukunft.
+Duerch d’Verstäerken an zesummebrénge vun eenzele Persounen, Organisatiounen a Regierungen, kënne Synergien entstoen, Erfahrungen ausgetosch ginn an neiaarteg Iddie ronderëm de Vëlo fonnt ginn. Doduerch bild sech eng méi gesond, méi aktiv an nohalteg Zukunft.
 
 Ënner anerem gegrënnt vum Sarah Drummond, Matthew Lowell a Johanna Holtan, ass de CycleHack ee Mechanismus deen d’Leit zesummebréngt positiv verschidde Suerge ronderëm de Vëlo ze adresséieren an eng Plattform ze schafe fir pro-aktiv Léisungen an der Welt vun der Mobilitéit an dem Vëlo ze fannen. Zesummen huet de Grupp 2014 CycleHack gegrënnt an et ass 2016 zu engem richtege Globale Mouvement gewuess wat och als **Design-Thinking** [0] fir d’Vëlosindustrie ginn ass.
 
